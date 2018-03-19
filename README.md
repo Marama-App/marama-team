@@ -44,6 +44,6 @@ Scrum Master
 
 
 #### Julia Niall
-A newly added member to team, that we highly appreciate.
+A newly added member to team, that we highly appreciate and look forward to working with.
 - [LinkedIn](https://www.linkedin.com/in/julia-niall/)
 - [GitHub](https://github.com/julia-mareike)
