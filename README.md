@@ -38,8 +38,8 @@ Scrum Master
 - [GitHub](https://github.com/rkimmi)
 
 
-*Find these members [here](http://www.marama.org.nz/about)*
-*Email the team at info.marama.app@gmail.com*
+*Find these members [here](http://www.marama.org.nz/about) and *
+*email the team at info.marama.app@gmail.com*
 
 
 #### Julia Niall
