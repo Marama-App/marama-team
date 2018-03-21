@@ -1,6 +1,4 @@
 # Marama-Team
-All about the Mārama team, and where you can find them.
-
 We created Mārama as part of our final project while studying at Enspiral Dev Academy. This idea was based on the vision Stina Muller had for a platform that encorporated study options based on student interest and how those students could fund their way there. 
 
 Read more about what her vision is, in the Mārama repository.
