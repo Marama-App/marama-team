@@ -38,13 +38,14 @@ Scrum Master
 - [GitHub](https://github.com/rkimmi)
 
 
-*Find these members [here](http://www.marama.org.nz/about)*
+*Find these members on [Mārama](http://www.marama.org.nz/about)*
 
 
 #### Julia Niall
-A newly added member to team, that we highly appreciate and look forward to working with.
+Technical Advisor  
+A newly added member to team, that we highly appreciate and look forward to working with.  
 - [LinkedIn](https://www.linkedin.com/in/julia-niall/)
 - [GitHub](https://github.com/julia-mareike)
 
 *Email the team at info.marama.app@gmail.com*  
-*Find Mārama on LinkedIn [here](https://www.linkedin.com/company/marama-app/)*  
+*Find Mārama on [LinkedIn](https://www.linkedin.com/company/marama-app/)*  
