@@ -4,7 +4,7 @@ We created [Mārama](http://marama.org.nz) as part of our final project while st
 Read more about what her vision is, in the [Mārama repository](https://github.com/Marama-App/marama).
 
 
-The team that work on Mārama are:
+The Co-Founders that work on Mārama are:
 
 #### Stina Muller 
 Chief Creative Officer
@@ -38,8 +38,9 @@ Scrum Master
 - [GitHub](https://github.com/rkimmi)
 
 
-*Find these members on [Mārama](http://www.marama.org.nz/about)*
+*Find these Co-Founders on [Mārama](http://www.marama.org.nz/about)*
 
+Team Members in Mārama:
 
 #### Julia Niall
 Technical Advisor  
